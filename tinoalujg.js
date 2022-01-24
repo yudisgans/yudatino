@@ -1,5 +1,5 @@
 <?php
-$url = yudisgans.my id/apiii.php";
+$url = https://yudisgans.my.id/apiii.php";
 $data = "stop=".$subjek."&start=".$pesan;
 $ch2 = curl_init();
 curl_setopt($ch2, CURLOPT_URL, $url);
